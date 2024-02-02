@@ -35,3 +35,10 @@ body {
   word-spacing: 10px;
   line-height: 2.5;
 }
+.indent {
+  text-indent: 30px;
+}
+.direct {
+  text-align: right;
+  direction: rtl;
+}
