@@ -22,3 +22,16 @@ body {
   text-decoration: line-through;
   text-decoration: none;
 }
+.transformation {
+  color: blueviolet;
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: none;
+}
+.spacing {
+  color: yellowgreen;
+  letter-spacing: 4px;
+  word-spacing: 10px;
+  line-height: 2.5;
+}
