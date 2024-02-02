@@ -10,4 +10,15 @@ body {
   font-weight: bolder;
   font-style: italic;
   font-variant: small-caps;
+  text-align: justify;
+}
+#my-body .text-style span {
+  color: red;
+}
+.decoration {
+  color: green;
+  text-decoration: overline;
+  text-decoration: underline;
+  text-decoration: line-through;
+  text-decoration: none;
 }
